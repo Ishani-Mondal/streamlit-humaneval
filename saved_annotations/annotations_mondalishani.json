@@ -1,0 +1,140 @@
+{
+  "ldapid": "mondalishani",
+  "progress": {
+    "completed_scenes": 6,
+    "total_scenes": 6
+  },
+  "scene_level": [
+    {
+      "scene_id": "scene_00",
+      "movie_A": {
+        "background": 1,
+        "character": 3,
+        "cinematic": 1
+      },
+      "movie_B": {
+        "background": 1,
+        "character": 1,
+        "cinematic": 1
+      },
+      "pairwise": {
+        "background": "Movie A",
+        "character": "Movie A",
+        "cinematic": "Movie A"
+      },
+      "comment": ""
+    },
+    {
+      "scene_id": "scene_01",
+      "movie_A": {
+        "background": 4,
+        "character": 3,
+        "cinematic": 1
+      },
+      "movie_B": {
+        "background": 4,
+        "character": 1,
+        "cinematic": 1
+      },
+      "pairwise": {
+        "background": "Movie A",
+        "character": "Movie A",
+        "cinematic": "Movie A"
+      },
+      "comment": ""
+    },
+    {
+      "scene_id": "scene_02",
+      "movie_A": {
+        "background": 4,
+        "character": 3,
+        "cinematic": 1
+      },
+      "movie_B": {
+        "background": 4,
+        "character": 4,
+        "cinematic": 1
+      },
+      "pairwise": {
+        "background": "Movie A",
+        "character": "Movie A",
+        "cinematic": "Movie A"
+      },
+      "comment": ""
+    },
+    {
+      "scene_id": "scene_03",
+      "movie_A": {
+        "background": 4,
+        "character": 3,
+        "cinematic": 1
+      },
+      "movie_B": {
+        "background": 4,
+        "character": 4,
+        "cinematic": 5
+      },
+      "pairwise": {
+        "background": "Movie A",
+        "character": "Movie A",
+        "cinematic": "Movie A"
+      },
+      "comment": ""
+    },
+    {
+      "scene_id": "scene_04",
+      "movie_A": {
+        "background": 4,
+        "character": 3,
+        "cinematic": 1
+      },
+      "movie_B": {
+        "background": 4,
+        "character": 4,
+        "cinematic": 5
+      },
+      "pairwise": {
+        "background": "Movie A",
+        "character": "Movie A",
+        "cinematic": "Movie A"
+      },
+      "comment": ""
+    },
+    {
+      "scene_id": "scene_05",
+      "movie_A": {
+        "background": 4,
+        "character": 3,
+        "cinematic": 1
+      },
+      "movie_B": {
+        "background": 4,
+        "character": 4,
+        "cinematic": 5
+      },
+      "pairwise": {
+        "background": "Movie A",
+        "character": "Movie A",
+        "cinematic": "Movie A"
+      },
+      "comment": ""
+    }
+  ],
+  "movie_level": {
+    "movie_A": {
+      "narrative": 1,
+      "character": 1,
+      "spatial": 1
+    },
+    "movie_B": {
+      "narrative": 1,
+      "character": 1,
+      "spatial": 1
+    },
+    "pairwise": {
+      "narrative": "Movie A",
+      "character": "Movie A",
+      "spatial": "Movie A"
+    }
+  }
+}
