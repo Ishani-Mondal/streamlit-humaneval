@@ -1,0 +1,158 @@
+{
+  "scene_00": {
+    "scene_id": "scene_00",
+    "shots": [
+      "Shot_1: Juno sits alone in her dimly lit room, sipping from a Sunny-D bottle. Her gaze lingers on the recliner across the room, and her narration begins with, 'It all started with a chair.' The lighting emphasizes her reflective state.",
+      "Shot_2: The scene transitions into a brighter flashback of Juno and Paulie sitting together in the recliner. They are laughing and talking, the atmosphere carefree and intimate, capturing their bond. The moment breathes and lingers, revealing context and stakes while preserving continuity. The frame holds long enough to register subtle shifts in intention.",
+      "Shot_3: The flashback becomes more intimate as Juno and Paulie lean closer to each other in the recliner. Their laughter fades into silence, replaced by a tender moment of connection. The moment breathes and lingers, revealing context and stakes while preserving continuity. The frame holds long enough to register subtle shifts in intention."
+    ],
+    "movie_A_image_paths": [
+      "/mnt/c/Users/ishan/Downloads/MovieAgent_magtcp_expressive_Juno_final_movie/MovieAgent_magtcp_expressive_Juno_final_movie/scene_00/best.png",
+      "/mnt/c/Users/ishan/Downloads/MovieAgent_magtcp_expressive_Juno_final_movie/MovieAgent_magtcp_expressive_Juno_final_movie/scene_01/best.png",
+      "/mnt/c/Users/ishan/Downloads/MovieAgent_magtcp_expressive_Juno_final_movie/MovieAgent_magtcp_expressive_Juno_final_movie/scene_02/best.png"
+    ],
+    "movie_B_image_paths": [
+      "/mnt/c/users/ishan/downloads/outputs_autostudio_gemini3_with_MovieAgent_Juno_full_movie/outputs_autostudio_gemini3_with_MovieAgent_Juno_full_movie/scene_01_00-00-00.000.png",
+      "/mnt/c/users/ishan/downloads/outputs_autostudio_gemini3_with_MovieAgent_Juno_full_movie/outputs_autostudio_gemini3_with_MovieAgent_Juno_full_movie/scene_02_00-00-10.000.png",
+      "/mnt/c/users/ishan/downloads/outputs_autostudio_gemini3_with_MovieAgent_Juno_full_movie/outputs_autostudio_gemini3_with_MovieAgent_Juno_full_movie/scene_03_00-00-20.000.png"
+    ],
+    "scores": {
+      "movie_A": {
+        "background_consistency_score": 5,
+        "emotion_consistency_score": 5
+      },
+      "movie_B": {
+        "background_consistency_score": 2,
+        "emotion_consistency_score": 3
+      }
+    }
+  },
+  "scene_01": {
+    "scene_id": "scene_01",
+    "shots": [
+      "Shot_1: Juno stands nervously at the counter, gripping the pregnancy test as Rollo leans casually against the counter, smirking in his clerk uniform under harsh fluorescent lights. The moment breathes and lingers, revealing context and stakes while preserving continuity. The frame holds long enough to register subtle shifts in intention.",
+      "Shot_2: A close-up of Juno's hands holding the pregnancy test, trembling slightly as the result starts to show. The moment breathes and lingers, revealing context and stakes while preserving continuity. The frame holds long enough to register subtle shifts in intention.",
+      "Shot_3: Juno looks up at Rollo with a mix of dread and disbelief, while Rollo grins knowingly, leaning back with exaggerated nonchalance. The moment breathes and lingers, revealing context and stakes while preserving continuity. The frame holds long enough to register subtle shifts in intention."
+    ],
+    "movie_A_image_paths": [
+      "/mnt/c/Users/ishan/Downloads/MovieAgent_magtcp_expressive_Juno_final_movie/MovieAgent_magtcp_expressive_Juno_final_movie/scene_03/best.png",
+      "/mnt/c/Users/ishan/Downloads/MovieAgent_magtcp_expressive_Juno_final_movie/MovieAgent_magtcp_expressive_Juno_final_movie/scene_04/best.png",
+      "/mnt/c/Users/ishan/Downloads/MovieAgent_magtcp_expressive_Juno_final_movie/MovieAgent_magtcp_expressive_Juno_final_movie/scene_05/best.png"
+    ],
+    "movie_B_image_paths": [
+      "/mnt/c/users/ishan/downloads/outputs_autostudio_gemini3_with_MovieAgent_Juno_full_movie/outputs_autostudio_gemini3_with_MovieAgent_Juno_full_movie/scene_04_00-00-30.000.png",
+      "/mnt/c/Users/ishan/Downloads/outputs_autostudio_gemini3_with_MovieAgent_Juno_full_movie/outputs_autostudio_gemini3_with_MovieAgent_Juno_full_movie/scene_05_00-00-40.000.png",
+      "/mnt/c/Users/ishan/Downloads/outputs_autostudio_gemini3_with_MovieAgent_Juno_full_movie/outputs_autostudio_gemini3_with_MovieAgent_Juno_full_movie/scene_06_00-00-50.000.png"
+    ],
+    "scores": {
+      "movie_A": {
+        "background_consistency_score": 5,
+        "emotion_consistency_score": 4
+      },
+      "movie_B": {
+        "background_consistency_score": 2,
+        "emotion_consistency_score": 3
+      }
+    }
+  },
+  "scene_02": {
+    "scene_id": "scene_02",
+    "shots": [
+      "Shot_1: Juno nervously dials Leah on her hamburger phone, surrounded by quirky bedroom decor. Leah listens in her room, reacting with disbelief amidst posters and a messy desk. The moment breathes and lingers, revealing context and stakes while preserving continuity. The frame holds long enough to register subtle shifts in intention."
+    ],
+    "movie_A_image_paths": [
+      "/mnt/c/Users/ishan/Downloads/MovieAgent_magtcp_expressive_Juno_final_movie/MovieAgent_magtcp_expressive_Juno_final_movie/scene_06/best.png"
+    ],
+    "movie_B_image_paths": [
+      "/mnt/c/users/ishan/downloads/outputs_autostudio_gemini3_with_MovieAgent_Juno_full_movie/outputs_autostudio_gemini3_with_MovieAgent_Juno_full_movie/scene_07_00-00-60.000.png"
+    ],
+    "scores": {
+      "movie_A": {
+        "background_consistency_score": 5,
+        "emotion_consistency_score": 4
+      },
+      "movie_B": {
+        "background_consistency_score": 4,
+        "emotion_consistency_score": 4
+      }
+    }
+  },
+  "scene_03": {
+    "scene_id": "scene_03",
+    "shots": [
+      "Shot_1: Paulie stands in front of a mirror, carefully tying his headband. The tidy room reflects his personality, with neatly folded clothes and a track medal hanging nearby. The moment breathes and lingers, revealing context and stakes while preserving continuity. The frame holds long enough to register subtle shifts in intention."
+    ],
+    "movie_A_image_paths": [
+      "/mnt/c/Users/ishan/Downloads/MovieAgent_magtcp_expressive_Juno_final_movie/MovieAgent_magtcp_expressive_Juno_final_movie/scene_07/best.png"
+    ],
+    "movie_B_image_paths": [
+      "/mnt/c/users/ishan/downloads/outputs_autostudio_gemini3_with_MovieAgent_Juno_full_movie/outputs_autostudio_gemini3_with_MovieAgent_Juno_full_movie/scene_08_00-00-70.000.png"
+    ],
+    "scores": {
+      "movie_A": {
+        "background_consistency_score": 5,
+        "emotion_consistency_score": 5
+      },
+      "movie_B": {
+        "background_consistency_score": 4,
+        "emotion_consistency_score": 3
+      }
+    }
+  },
+  "scene_04": {
+    "scene_id": "scene_04",
+    "shots": [
+      "Shot_1: The camera captures Juno walking hesitantly toward Paulie, who stands calmly in his track gear. The suburban house and quiet street set a serene yet tense atmosphere. Trees sway gently in the background as the characters begin their interaction.",
+      "Shot_2: The camera shifts to a medium shot, focusing on Juno's conflicted expression and Paulie's attentive demeanor. Juno's casual outfit contrasts with Paulie's track gear, subtly highlighting their differing states of mind.",
+      "Shot_3: Close-up shots focus on Juno's teary eyes and Paulie's reassuring nod. The backdrop fades slightly, placing emphasis on their emotions during this pivotal moment. The moment breathes and lingers, revealing context and stakes while preserving continuity. The frame holds long enough to register subtle shifts in intention."
+    ],
+    "movie_A_image_paths": [
+      "/mnt/c/Users/ishan/Downloads/MovieAgent_magtcp_expressive_Juno_final_movie/MovieAgent_magtcp_expressive_Juno_final_movie/scene_08/best.png",
+      "/mnt/c/Users/ishan/Downloads/MovieAgent_magtcp_expressive_Juno_final_movie/MovieAgent_magtcp_expressive_Juno_final_movie/scene_09/best.png",
+      "/mnt/c/Users/ishan/Downloads/MovieAgent_magtcp_expressive_Juno_final_movie/MovieAgent_magtcp_expressive_Juno_final_movie/scene_10/best.png"
+    ],
+    "movie_B_image_paths": [
+      "/mnt/c/users/ishan/downloads/outputs_autostudio_gemini3_with_MovieAgent_Juno_full_movie/outputs_autostudio_gemini3_with_MovieAgent_Juno_full_movie/scene_09_00-00-80.000.png",
+      "/mnt/c/users/ishan/downloads/outputs_autostudio_gemini3_with_MovieAgent_Juno_full_movie/outputs_autostudio_gemini3_with_MovieAgent_Juno_full_movie/scene_10_00-00-90.000.png",
+      "/mnt/c/users/ishan/downloads/outputs_autostudio_gemini3_with_MovieAgent_Juno_full_movie/outputs_autostudio_gemini3_with_MovieAgent_Juno_full_movie/scene_11_00-00-100.000.png"
+    ],
+    "scores": {
+      "movie_A": {
+        "background_consistency_score": 5,
+        "emotion_consistency_score": 4
+      },
+      "movie_B": {
+        "background_consistency_score": 3,
+        "emotion_consistency_score": 3
+      }
+    }
+  },
+  "scene_05": {
+    "scene_id": "scene_05",
+    "shots": [
+      "Shot_1: A wide-angle shot reveals the cold, sterile clinic exterior under a gray sky. Su-Chin stands to the side, holding her protest sign and softly chanting. Juno hesitates at a distance, her quirky attire contrasting against the muted surroundings.",
+      "Shot_2: A close-up of Su-Chin, her face determined as she chants softly. The muted backdrop highlights her solitary resolve. The moment breathes and lingers, revealing context and stakes while preserving continuity. The frame holds long enough to register subtle shifts in intention.",
+      "Shot_3: A close-up of Juno's face, her expression shifting from confidence to doubt as she listens to Su-Chin's words. The moment breathes and lingers, revealing context and stakes while preserving continuity. The frame holds long enough to register subtle shifts in intention."
+    ],
+    "movie_A_image_paths": [
+      "/mnt/c/Users/ishan/Downloads/MovieAgent_magtcp_expressive_Juno_final_movie/MovieAgent_magtcp_expressive_Juno_final_movie/scene_11/best.png",
+      "/mnt/c/Users/ishan/Downloads/MovieAgent_magtcp_expressive_Juno_final_movie/MovieAgent_magtcp_expressive_Juno_final_movie/scene_12/best.png",
+      "/mnt/c/Users/ishan/Downloads/MovieAgent_magtcp_expressive_Juno_final_movie/MovieAgent_magtcp_expressive_Juno_final_movie/scene_13/best.png"
+    ],
+    "movie_B_image_paths": [
+      "/mnt/c/users/ishan/downloads/outputs_autostudio_gemini3_with_MovieAgent_Juno_full_movie/outputs_autostudio_gemini3_with_MovieAgent_Juno_full_movie/scene_12_00-00-110.000.png",
+      "/mnt/c/users/ishan/downloads/outputs_autostudio_gemini3_with_MovieAgent_Juno_full_movie/outputs_autostudio_gemini3_with_MovieAgent_Juno_full_movie/scene_13_00-00-120.000.png",
+      "/mnt/c/users/ishan/downloads/outputs_autostudio_gemini3_with_MovieAgent_Juno_full_movie/outputs_autostudio_gemini3_with_MovieAgent_Juno_full_movie/scene_14_00-00-130.000.png"
+    ],
+    "scores": {
+      "movie_A": {
+        "background_consistency_score": 5,
+        "emotion_consistency_score": 3
+      },
+      "movie_B": {
+        "background_consistency_score": 4,
+        "emotion_consistency_score": 4
+      }
+    }
+  }
+}
